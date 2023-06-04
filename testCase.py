@@ -138,7 +138,7 @@ def timed_function2():
         sys.stdout = original_stdout
         print("fixed:", DiError['fixedScore'])
 
-for DiError in liErrors[411:]:
+for DiError in liErrors[565:]:
     #if DiError['sourceScore'] == 0 and zeros > 5:
     #    print("more than 5 zeros, pass")
     #    continue
